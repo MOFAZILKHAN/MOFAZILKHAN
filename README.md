@@ -34,11 +34,11 @@ Currently exploring **ERP systems with Apache OFBiz** and continuously improving
 ---
 
 ## 📈 GitHub Stats
-![Mo Fazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazilkhan230880&show_icons=true&theme=tokyonight)
+![Mo Fazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOFAZILKHAN&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fazilkhan230880&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOFAZILKHAN&layout=compact&theme=tokyonight)
 
-![Mo Fazil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fazilkhan230880&theme=tokyo-night)
+![Mo Fazil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MOFAZILKHAN&theme=tokyo-night)
 
 
 ## 💡 Quote of the Day
